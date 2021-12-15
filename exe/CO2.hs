@@ -1,4 +1,4 @@
-module Main where
+module CO2 where
 import Data.List
 import Data.Maybe
 import System.IO
