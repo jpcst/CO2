@@ -1,4 +1,5 @@
 # Medidor de CO2 / Zahm & Nagel SS-60
+CO2 Meter
 ```
 $ ghc Main.hs
 ```
