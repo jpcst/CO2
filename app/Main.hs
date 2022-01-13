@@ -54,7 +54,7 @@ main = do
 findEl :: Int -> [Int] -> Int
 findEl p xs = fromJust $ elemIndex p xs
 
-fst3 :: (a, b, c) -> a
+fst3 :: (a,b,c) -> a
 fst3 (x,_,_) = x
 
 snd3 :: (a,b,c) -> b
